@@ -7,7 +7,7 @@
     display: none;
 }
 
-marquee{
+.marquee{
     text-align: center;
     color: yellow;
     background-color: blueviolet;
