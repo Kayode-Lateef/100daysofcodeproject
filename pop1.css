@@ -8,6 +8,7 @@
 }
 
 marquee{
+    text-align: center;
     color: yellow;
     background-color: blueviolet;
     font-weight: bold;
