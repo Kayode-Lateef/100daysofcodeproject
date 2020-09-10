@@ -53,7 +53,7 @@ function thankYou(){
         alert('Please Input a valid Email');
     }
     else {     
-    alert( 'Hi ' + inputName.value + '!'  + ' We have received your E-mail THANK YOU For Coming!');
+    alert( 'Hi ' + inputName.value.toUpperCase() + '!'  + ' We have received your E-mail THANK YOU For Coming!');
 
     } 
 }
